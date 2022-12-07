@@ -1,5 +1,5 @@
 backports.ssl-match-hostname==3.4.0.2
-certifi==14.5.14
+certifi==2022.12.7
 ipython==2.3.1
 passlib==1.6.2
 peewee==2.4.6
